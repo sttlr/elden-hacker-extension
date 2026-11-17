@@ -1,6 +1,11 @@
 # Elden Ring Hacker Extension
 
-Enhance your Hacker learning experience with Elden Ring–inspired notifications and achievements. Supports Hackthebox Labs, Hackthebox Academy and Tryhackme.
+Enhance your Hacker learning experience with Elden Ring–inspired notifications and achievements.
+
+Supports:
+* Hackthebox Labs (machines, challenges, sherlocks)
+* Hackthebox Academy
+* Tryhackme
 
 ![Demo](demo-image.png)
 
@@ -37,6 +42,6 @@ Send a PR with new hacker websites, routes, notification names/sounds.
 
 ## Credits
 
-[Original Elden Ring Leetcode repository](https://github.com/Indra55/Elden-ring-leetcode-extension)
-[Elden Ring style image generator](https://github.com/Sibert-Aerts/sibert-aerts.github.io/tree/master/new-area/image-creator)
-Code written by gpt-6-luna:medium
+* [Original Elden Ring Leetcode repository](https://github.com/Indra55/Elden-ring-leetcode-extension)
+* [Elden Ring style image generator](https://github.com/Sibert-Aerts/sibert-aerts.github.io/tree/master/new-area/image-creator)
+* Code written by gpt-6-luna:medium
