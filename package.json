@@ -1,0 +1,17 @@
+{
+    "name": "elden-hacker",
+    "private": true,
+    "type": "module",
+    "version": "0.1.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build && vite build --config vite.content.config.ts && bun scripts/generate-banners.mjs"
+    },
+    "devDependencies": {
+        "@napi-rs/canvas": "^1.1.1",
+        "@types/chrome": "^0.1.36",
+        "@types/node": "^24.10.9",
+        "typescript": "~5.8.3",
+        "vite": "^7.3.1"
+    }
+}
